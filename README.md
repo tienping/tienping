@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/tienping)  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tienping.tienping)
 
 ### Hi there 👋, my name is **TP**
