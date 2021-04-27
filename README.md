@@ -11,8 +11,6 @@ Skills: ReactJS / and all sort of HTML & CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tienping&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tienping)  
-
 ![GitHub metrics](https://metrics.lecoq.io/tienping)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tienping)  
