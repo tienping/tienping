@@ -13,7 +13,7 @@
 
 <br>
 
-<h1 align ='center'> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75px'></h1>
+<h1 align ='center'> Some Programming Humor for you <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '50px'></h1>
 <div align ='center'>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
