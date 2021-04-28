@@ -22,7 +22,9 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p>
 <div>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp <span>LinkedIn</span></a> 
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+&nbsp
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/tienping'> LinkedIn </a> 
 </div>
 <br>
 <div>
