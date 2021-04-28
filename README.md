@@ -11,8 +11,6 @@
 <h1> Hi! My name is TienPing. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <div>Thank You for taking the time to view my GitHub Profile</div>
 
-<br>
-
 <h2> Some Programming Humor for you <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'></h2>
 <div>
 
@@ -56,13 +54,11 @@
 </div>
 <br>
 <br>
-<br>
 </p>
 <div>
-<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+<img width ='20%' height = '20%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
 
-<br>
 <br>
 <br>
 
