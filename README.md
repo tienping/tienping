@@ -11,6 +11,8 @@
 <h1> Hi! My name is TienPing. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <div>Thank You for taking the time to view my GitHub Profile</div>
 
+<br>
+
 <h2> Some Programming Humor for you <img src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '60px'></h2>
 <div>
 
