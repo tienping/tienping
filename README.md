@@ -70,9 +70,6 @@
 <br>
 <br>
 </p>
-<div>
-<img width ='25%' height = '25%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
-</div>
 
 <br>
 <br>
@@ -88,6 +85,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<div>
+<img width ='25%' height = '25%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+</div>
 
 <br>
 <br>
