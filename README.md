@@ -56,7 +56,7 @@
 <br>
 </p>
 <div>
-<img width ='20%' height = '20%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+<img width ='25%' height = '25%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
 
 <br>
