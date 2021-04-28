@@ -26,7 +26,6 @@
 <a href = 'https://www.github.com/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <br>
 <br>
-<br>
 </p>
   
 </div>
