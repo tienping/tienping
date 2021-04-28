@@ -28,11 +28,15 @@
 </div>
 <br>
 <div>
-<a href = 'https://medium.com/@petwesley'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp Medium</a> 
+<a href = 'https://medium.com/@petwesley'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/> </a> 
+&nbsp
+<a href = 'https://medium.com/@petwesley'> Medium</a> 
 </div>
 <br>
 <div>
-<a href = 'https://www.github.com/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp Github</a> 
+<a href = 'https://www.github.com/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a> 
+&nbsp
+<a href = 'https://www.github.com/tienping'> Github </a> 
 </div>
 <br>
 <br>
