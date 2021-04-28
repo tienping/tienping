@@ -24,9 +24,11 @@
 <div>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp LinkedIn</a> 
 </div>
+<br>
 <div>
 <a href = 'https://medium.com/@petwesley'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/>&nbsp Medium</a> 
 </div>
+<br>
 <div>
 <a href = 'https://www.github.com/tienping'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp Github</a> 
 </div>
