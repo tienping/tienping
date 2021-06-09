@@ -9,6 +9,8 @@
 </p>
 
 <h1> Hi! My name is TienPing. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h2>An experienced Front-End Developer (HTML, CSS and JS)  which have been venturing into project management and customer requirement gathering for years.</h2>
+<h2>Currently, my primary tool is ReactJs.</h2>
 <div>Thank You for taking the time to view my GitHub Profile</div>
 
 <br>
